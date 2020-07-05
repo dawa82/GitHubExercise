@@ -1,8 +1,8 @@
 body {
-	background-color: aqua;
+	background-color: rgb(255, 115, 0);
 }
 h1 {
 	font-size: 16rem;
 	text-align: center;
-	background-color: aqua;
+	background-color: rgb(18, 102, 102);
 }
